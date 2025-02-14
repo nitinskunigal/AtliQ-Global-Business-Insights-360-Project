@@ -4,7 +4,7 @@ Global Business Insights 360 is an advanced data analytics initiative designed t
 # **Section 2: AtliQ’s Overview & Business Model**
 AtliQ Hardware was founded in 2014 and has grown into a leading global player in the consumer electronics space. Their expertise lies in manufacturing and selling PCs, peripherals, network storage devices, and more. Headquartered in India, they serve a diverse global customer base with a strong emphasis on quality and innovation. While their early focus was on the Asia-Pacific (APAC) and European markets, they later expanded into North America (NA) and Latin America (LATAM) in 2018, which was a key milestone in their global growth.
 
-
+![AtliQ's Business Model](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/AtliQ's%20Business%20Model_Final.png)
 
 AtliQ follows a multi-channel approach to cater to different customer segments across the world. Their products are manufactured in India, then shipped to global distribution centers, which route them to various sales channels. They operate through three main sales channels:
 
@@ -275,3 +275,18 @@ Key Takeaway: Successful analytics isn’t just about data—it’s about enabli
 Business Insights 360 successfully enabled AtliQ Hardware to transition from manual Excel-based analytics to a more powerful Power BI-based solution. By integrating data across multiple business units, the company gained invaluable insights that significantly improved financial planning, sales performance, and operational efficiency. This project underscores the importance of data-driven decision-making in today’s competitive landscape, ensuring AtliQ Hardware remains resilient and future-ready.
 
 # **Section 12: View/ Download Project Files**
+•	[Project Charter (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Project%20Charter.pdf)
+
+• [Stakeholder Mapping & Engagement Strategies (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Stakeholder%20Mapping%20%26%20Engagement%20Strategies.pdf)
+
+• [Project Lifecycle and Power BI Deployment (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Project%20Lifecycle%20and%20Power%20BI%20Deployment.pdf)
+
+•	[Dashboard Wireframes (PNG)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Data%20Model.png)
+
+•	[Data Model (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Dashboard%20Wireframes.pdf)
+
+•	[Dashboard Views (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Dashboard%20Views.pdf)
+
+•	[Project Presentation Slides (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Project%20Presentation.pdf)
+
+•	[Project Presentation (Video)](https://vimeo.com/1056727233/176f40873a?ts=0&share=copy)
