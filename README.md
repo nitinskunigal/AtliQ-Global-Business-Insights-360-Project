@@ -275,6 +275,9 @@ Key Takeaway: Successful analytics isn’t just about data—it’s about enabli
 Business Insights 360 successfully enabled AtliQ Hardware to transition from manual Excel-based analytics to a more powerful Power BI-based solution. By integrating data across multiple business units, the company gained invaluable insights that significantly improved financial planning, sales performance, and operational efficiency. This project underscores the importance of data-driven decision-making in today’s competitive landscape, ensuring AtliQ Hardware remains resilient and future-ready.
 
 # **Section 12: View/ Download Project Files**
+
+•	[Access Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDJmZjFlODUtZDNkZi00OGZmLThiYTgtYzE1ZWFjZTcxNTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 •	[Project Charter (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Project%20Charter.pdf)
 
 • [Stakeholder Mapping & Engagement Strategies (PDF)](https://github.com/nitinskunigal/Global-Business-Insights-360-Project/blob/main/Stakeholder%20Mapping%20%26%20Engagement%20Strategies.pdf)
