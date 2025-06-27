@@ -56,9 +56,7 @@ The project aimed to implement an advanced analytics framework to improve AtliQ 
 
 •	**Wireframes & Mockups**: Visual representations of dashboard layouts, iteratively improved through stakeholder feedback.
 
-•	**Interactive Dashboards**: Fully developed Excel-based dashboards with drill-down capabilities, slicers, and KPI tracking.
-
-•	**User Acceptance Testing (UAT) Reports**
+•	**Interactive Dashboards**: Fully developed Power Bi dashboards for different departments with drill-down capabilities, slicers, and KPI tracking.
 
 •	**Presentation & Walkthrough Materials**: Final PowerPoint presentation with key takeaways, methodology, and demo walkthrough.
 
@@ -70,7 +68,7 @@ For AtliQ’s leadership, financial performance is at the heart of strategic dec
 
 •	**Explosive Revenue Growth**: In 2021, Net Sales skyrocketed to $823.85M (+207.43% YoY). This surge reflects aggressive expansion efforts but also raises questions about long-term profitability.
 
-•	**Profitability Metrics**: Gross Margin stands strong at 41.2%, indicating effective cost management, while Net Profit % declined due to higher COGS and expansion costs.
+•	**Profitability Metrics**: Gross Margin and Net Profit % declined due to higher COGS and expansion costs.
 
 •	**P&L Analysis for Stability**: The interactive Profit & Loss Statement allows us to track YoY growth, ensuring financial sustainability.
 
@@ -87,12 +85,10 @@ AtliQ’s sales strategy needs precision—our Sales Dashboard provides the gran
 
 •	**Regional Performance**: APAC is the strongest market, but LATAM shows significant growth potential.
 
-•	**Customer Retention Insights**: The dashboard tracks Customer Lifetime Value (CLV), identifying opportunities for higher retention and targeted sales strategies.
-
 Key Takeaway: Strategic focus on LATAM’s growth potential and leveraging Amazon’s dominance can boost long-term sales performance.
 
 ## **Marketing Dashboard: Data-Driven Campaign Optimization**
-Marketing at AtliQ isn’t just about spending—it’s about ROI-driven strategies. Our Marketing Dashboard helps fine-tune promotional efforts:
+Marketing at AtliQ isn’t just about spending — it’s about ROI-driven strategies. Our Marketing Dashboard helps fine-tune promotional efforts:
 
 •	**Targeting the Right Customers**: Customer segmentation identifies high-value and at-risk customers, enabling personalized engagement strategies.
 
