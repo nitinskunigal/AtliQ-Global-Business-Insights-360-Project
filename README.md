@@ -19,7 +19,7 @@ Through this multi-channel strategy, AtliQ has built a strong global presence wh
 # **Section 3: Key Challenges**
 AtliQ Hardware’s reliance on outdated analytics tools led to data silos, inefficiencies, and missed growth opportunities. The primary challenges included:
 
-•	**Rapid Growth, But Growing Pains**: AtliQ Hardware expanded swiftly, opening exclusive stores in LATAM to replicate success from other regions. However, this move resulted in significant losses.
+•	**Rapid Growth, But Growing Pains**: AtliQ Hardware expanded swiftly, opening exclusive stores in Latin American (LATAM) region to replicate success from other regions. However, this move resulted in significant losses.
 
 •	**Lack of Data-Driven Decisions**: Key expansion decisions were based on intuition and limited surveys rather than reliable, data-backed insights.
 
@@ -51,8 +51,36 @@ The project aimed to implement an advanced analytics framework to improve AtliQ 
 
 •	**Strengthening brand visibility and customer engagement** through data-driven marketing and segmentation strategies.
 
-# **Section 6: Project Deliverables**
-•	**Project Charter & Documentation**: Detailed documentation covering objectives, stakeholder roles, data sources, and expected outcomes.
+
+# **Section 6: Key Performance Indicators**
+
+•	**Net Sales (NS)** = Net Invoice Sales - Post Invoice Deductions
+
+•	**Gross Margin (GM)** = Net Sales - Total Cost of Goods Sold (COGS)
+
+•	**Gross Margin %** = (Gross Margin / Net Sales) * 100
+
+•	**Net Profit (NP)** = Gross Margin - Operational Expenses
+
+•	**Net Profit %** = (Net Profit / Net Sales) * 100
+
+•	**Net Error (NE)** = Forecast Quantity - Sales Quantity
+
+•	**Net Error %** = (Net Error / Forecast Quantity) * 100
+
+•	**Absolute (ABS) Error** = Absolute Net Error
+
+•	**Absolute Error %** = (ABS Error / Forecast Quantity) * 100
+
+•	**Forecast Accuracy** = 1- [Absolute Error %]
+
+
+# **Section 7: Project Deliverables**
+•	**Project Charter & Documentation**: Documentation covering project objectives, timeline, risks, and success measures.
+
+•	**Stakeholder Mapping**: Detailed documentation covering stakeholder roles, responsibilities, influence, and engagement strategies.
+
+•	**Project Lifecycle & Deployment**: Detailed phases involved in this project.
 
 •	**Wireframes & Mockups**: Visual representations of dashboard layouts, iteratively improved through stakeholder feedback.
 
@@ -60,7 +88,7 @@ The project aimed to implement an advanced analytics framework to improve AtliQ 
 
 •	**Presentation & Walkthrough Materials**: Final PowerPoint presentation with key takeaways, methodology, and demo walkthrough.
 
-# **Section 7: Power BI Dashboard Details – Unlocking Strategic Insights**
+# **Section 8: Power BI Dashboard Details – Unlocking Strategic Insights**
 AtliQ Hardware’s Power BI dashboards provide a 360-degree view of business performance, enabling data-driven decision-making across key functions:
 
 ## **Finance Dashboard: Navigating Profitability & Cost Control**
@@ -132,7 +160,7 @@ By integrating Power BI dashboards across Finance, Sales, Marketing, Supply Chai
 
 This isn’t just a dashboard—it’s AtliQ’s roadmap to future success.
 
-# **Section 8: Business Metrics Explored**
+# **Section 9: Business Metrics Explored**
 
 •	**Profit & Loss (P&L) Analysis**: Assessed revenue, costs, and profitability trends, providing insights into financial health and operational efficiency.
 
@@ -146,7 +174,7 @@ This isn’t just a dashboard—it’s AtliQ’s roadmap to future success.
 
 •	**Supply Chain Performance**: Measured Forecast Accuracy, Net Error, Absolute Error (ABS Error), and Inventory Levels to enhance demand planning and reduce stock inefficiencies.
 
-# **Section 9: Strategic Recommendations**
+# **Section 10: Strategic Recommendations**
 To drive AtliQ Hardware’s success, I’ve structured our recommendations into two key categories: short-term strategies for immediate impact and long-term strategies for sustainable growth.
 
 ## **Short-Term Strategies (Immediate Impact)**
@@ -169,7 +197,7 @@ While quick wins are necessary, AtliQ’s long-term success depends on sustainab
 
 By executing these strategies, AtliQ can not only navigate immediate challenges but also lay the groundwork for long-term success in a competitive landscape.
 
-# **Section 10: Strategic Business Impact**
+# **Section 11: Strategic Business Impact**
 AtliQ’s transformation isn’t just about numbers—it’s about making smarter, faster decisions across the entire organization. Let’s look at the key areas where our strategy delivers real impact.
 
 •	**Projected Revenue Growth**: By optimizing decision-making, we anticipate a 10% increase in revenue and a 20% reduction in data-related expenses, ensuring higher profitability with lower operational overhead.
@@ -186,7 +214,7 @@ AtliQ’s transformation isn’t just about numbers—it’s about making smarte
 
 •	**Real-Time Executive Dashboards**: Decision-makers don’t have time to sift through reports. With real-time executive dashboards, leadership gains instant access to critical performance analytics, ensuring proactive and strategic execution at the highest level.
 
-# **Section 11: Power BI Techniques Utilized**
+# **Section 12: Power BI Techniques Utilized**
 •	Advanced Data Modeling for efficient multi-dimensional analysis.
 
 •	Custom Date Tables (M Language) for optimized time-based calculations.
@@ -201,7 +229,7 @@ AtliQ’s transformation isn’t just about numbers—it’s about making smarte
 
 •	Automated Data Refresh (Personal Gateway) for real-time data updates and accuracy.
 
-# **Section 12: Key Takeaways & Learnings: A Transformational Journey in Data Analytics**
+# **Section 13: Key Takeaways & Learnings: A Transformational Journey in Data Analytics**
 This project was more than just an analytical exercise—it was a real-world simulation of how data analytics drives business decisions. It challenged me to think critically, collaborate effectively, and execute strategically while developing technical expertise and business acumen. Throughout this journey, I gained invaluable exposure to:
 
 •	**Real-world data complexities** – messy data requiring meticulous cleaning and transformation.
@@ -267,10 +295,10 @@ Beyond technical skills, this project sharpened my business thinking, stakeholde
 
 Key Takeaway: Successful analytics isn’t just about data—it’s about enabling smarter business decisions.
 
-# **Section 13: Conclusion**
+# **Section 14: Conclusion**
 Business Insights 360 successfully enabled AtliQ Hardware to transition from manual Excel-based analytics to a more powerful Power BI-based solution. By integrating data across multiple business units, the company gained invaluable insights that significantly improved financial planning, sales performance, and operational efficiency. This project underscores the importance of data-driven decision-making in today’s competitive landscape, ensuring AtliQ Hardware remains resilient and future-ready.
 
-# **Section 12: View/ Download Project Files**
+# **Section 15: View/ Download Project Files**
 
 •	[Access Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDJmZjFlODUtZDNkZi00OGZmLThiYTgtYzE1ZWFjZTcxNTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
