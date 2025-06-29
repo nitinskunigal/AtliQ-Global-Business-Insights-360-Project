@@ -204,7 +204,7 @@ AtliQ’s transformation isn’t just about numbers—it’s about making smarte
 # **Section 12: Key Takeaways & Learnings: A Transformational Journey in Data Analytics**
 This project was more than just an analytical exercise—it was a real-world simulation of how data analytics drives business decisions. It challenged me to think critically, collaborate effectively, and execute strategically while developing technical expertise and business acumen. Throughout this journey, I gained invaluable exposure to:
 
-•	**Real-world data complexities** – messy, unstructured data requiring meticulous cleaning and transformation.
+•	**Real-world data complexities** – messy data requiring meticulous cleaning and transformation.
 
 •	**Stakeholder collaboration** – aligning analytics with business needs and ensuring impactful insights.
 
